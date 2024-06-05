@@ -1,0 +1,1 @@
+/home/wp/.dotfiles/tag-tmux/config/tmux/fzf_panes.tmux

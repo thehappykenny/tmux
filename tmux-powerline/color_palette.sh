@@ -1,0 +1,1 @@
+/home/wp/.dotfiles/tag-tmux/config/tmux/tmux-powerline/color_palette.sh

@@ -1,0 +1,1 @@
+/home/wp/.dotfiles/tag-tmux/config/tmux/tmux-powerline/lib/powerline.sh
